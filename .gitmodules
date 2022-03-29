@@ -1,0 +1,3 @@
+[submodule "submodule-feature"]
+	path = submodule-feature
+	url = git@github.com:ojvictor/submodule-feature.git
